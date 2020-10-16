@@ -1,5 +1,10 @@
-baseurl = "https://jinoarch.github.io/blog"
-title = "jinos_blog"
+languageCode = "en-us"
+title = "Cupper"
+baseURL = "https://thepaciellogroup.github.io/cupper/"
+canonifyURLs = true
+theme = "cupper"
+publishDir = "docs"
 
-theme = "cupper-hugo-theme"
-
+[params]
+  description = "Documentation for the **Cupper** documentation builder, built with **Cupper** itself."
+  codePenUser = "Heydon"
