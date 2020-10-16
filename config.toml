@@ -1,0 +1,5 @@
+baseurl = "https://jinoarch.github.io/blog"
+title = "jinos_blog"
+
+theme = "cupper-hugo-theme"
+
